@@ -38,4 +38,9 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/x
 </plugins>
 </build>
 
+<properties>
+  <sonar.organization>eko</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
+
 </project>
